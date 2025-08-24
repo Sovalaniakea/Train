@@ -1,1 +1,5 @@
-world
+<<<<<<< HEAD
+Hello world
+=======
+Hello
+>>>>>>> develop2
